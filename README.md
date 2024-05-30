@@ -4,7 +4,7 @@
 
 # Preview of the App
 
-![Preview](.png)
+![Preview](Stat-preview-card-component.png)
 
 # Description
     Frontend Mentor Challenge
